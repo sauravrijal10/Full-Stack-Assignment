@@ -1,0 +1,83 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+venv*/
+*.venv
+
+# Python project-specific
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Static files
+staticfiles/
+*.css
+*.js
+
+# Media files
+media/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.ico
+
+# Environment variables
+.env
+
+# Secret keys
+*.secret_key
+
+# Compiled Python
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compiled binaries
+*.dll
+*.so
+*.pyd
+*.exe
+*.o
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
