@@ -4,3 +4,4 @@ sqlparse==0.4.4
 typing_extensions==4.7.1
 djangorestframework==3.14.0
 django-rest-authtoken==2.1.4
+django-cors-headers==4.2.0
